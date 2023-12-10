@@ -1,7 +1,6 @@
 package com.vija.boot.docker.service;
 
 import com.vija.boot.docker.model.Stores;
-import jdk.nashorn.internal.runtime.logging.Logger;
 import org.apache.catalina.Store;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
